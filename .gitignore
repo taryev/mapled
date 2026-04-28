@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# uv
+manager/.venv/
+
+# sprites
+sprites/png/
+
+# board
+board/**/*.mpy
+board/typings/
+
+# macos
+.DS_Store
+
+# Project structure
+ext/
